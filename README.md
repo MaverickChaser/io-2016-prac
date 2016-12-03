@@ -1,2 +1,3 @@
-# io-2016-prac
-prac 2016
+1) Вывод "Hello, world!"
+
+2) python main.py
